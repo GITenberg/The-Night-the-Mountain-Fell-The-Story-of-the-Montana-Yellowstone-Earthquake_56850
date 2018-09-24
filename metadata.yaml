@@ -1,11 +1,16 @@
 _repo: The-Night-the-Mountain-Fell-The-Story-of-the-Montana-Yellowstone-Earthquake_56850
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56850-h/images/cover.jpg
 creator:
   author:
     agent_name: Christopherson, Edmund
     gutenberg_agent_id: '49055'
     url: http://www.gutenberg.org/2009/agents/49055
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56850#The-Night-the-Mountain-Fell-The-Story-of-the-Montana-Yellowstone-Earthquake
 gutenberg_issued: '2018-03-27'
 gutenberg_type: Text
 identifiers:
